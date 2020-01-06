@@ -1,0 +1,16 @@
+{
+    "name": "edwinjuarez/apisri",
+    "description": "Libreria para generacion y firma de Factura Electronica SRI Ecuador",
+    "authors": [
+        {
+            "name": "Edwin Juarez",
+            "email": "edwinjuarez24x@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EdwinJuarez\\APISri\\" : "src/"
+        } 
+    }
+}
