@@ -8,7 +8,8 @@ Edwin Juarez C. edwinjuarez24x@gmail.com
 composer require edwinjuarez/apisri
 
 # Uso
-```<?php  
+```
+<?php  
 
 use EdwinJuarez\APISri\SignXml\SignXadesSRI;
 
