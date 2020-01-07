@@ -8,7 +8,7 @@ Edwin Juarez C. edwinjuarez24x@gmail.com
 composer require edwinjuarez/apisri
 
 # Uso
-<?php  
+```<?php  
 
 use EdwinJuarez\APISri\SignXml\SignXadesSRI;
 
@@ -26,4 +26,4 @@ $signXadesSRI->sign($pathcertificado, $clavecertificado, $xmlsinfirma, $xmlfirma
 file_put_contents($xmlfirmado, $signXadesSRI->getXml());
 
 ?>
-
+```
