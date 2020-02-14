@@ -28,3 +28,9 @@ file_put_contents($xmlfirmado, $signXadesSRI->getXml());
 
 ?>
 ```
+# Licencia
+Es un software de código abierto con licencia LGPL.
+```
+El autor de este proyecto por razones de tiempo no brindará soporte en la implementación.
+Por otra parte el autor pone a disposición un proyecto de librería que realiza todo el proceso de facturación electrónica, como también asesoría en su implementación.
+```
